@@ -13,7 +13,7 @@ number of collaborators and the number one source of variation in the speed to r
 when they arrive at the Leek group. Based on my conversations with other statisticians this is true nearly universally.
 
 My strong feeling is that statisticians should be able to handle the data in whatever state they arrive. It is important
-to see the raw data, understand the steps in the processing pipeline, and be able to incorporate hidden sources of
+to see the raw data, understand the steps in the processing pipeline, and be OOOOOOOOOOOOOOOOOOOOOOOOOable to incorporate hidden sources of
 variability in one's data analysis. On the other hand, for many data types, the processing steps are well documented
 and standardized. So the work of converting the data from raw form to directly analyzable form can be performed 
 before calling on a statistician. This can dramatically speed the turnaround time, since the statistician doesn't
